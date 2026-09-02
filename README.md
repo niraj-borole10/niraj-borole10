@@ -23,11 +23,25 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/niraj-borole-a590b6313/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:nirajborole0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-  <a href="https://codeforces.com/profile/Niarj_10" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>&nbsp;
-  <a href="https://leetcode.com/u/Nin_1006/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;
-  <a href="https://github.com/niraj-borole10" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Website" /></a>
+  <a href="https://www.linkedin.com/in/niraj-borole-a590b6313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:nirajborole0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/Niarj_10" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="34" alt="Codeforces" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Ninja_010/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="34" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/niraj-borole10" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=safari&logoColor=white" height="34" alt="Portfolio Website" />
+  </a>
 </p>
 
 ---
