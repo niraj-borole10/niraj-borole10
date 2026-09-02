@@ -95,58 +95,58 @@
   </tr>
 </table>
 
-### ❯ [Collaborative Code Editor with Integrated AI Assistance](https://github.com/niraj-borole10)
-`Real-Time Distributed Systems` &nbsp;|&nbsp; `Self Project`
+### `Collaborative Code Editor with Integrated AI Assistance`
+[`Real-Time Distributed Systems`](https://github.com/niraj-borole10)
 
-- ▸ Developed a real-time collaborative code editor using **Socket.io**, achieving **`< 50ms` latency** for **100 concurrent users**.
-- ▸ Integrated **Google Gemini API** for intelligent AI assistance, adding robust error handling for rate-limit and quota failures.
-- ▸ Designed a dark UI using **Monaco Editor** and **Tailwind CSS** with draggable resizable side panels, real-time team chat, and dynamic exports across **7 languages**.
+▸ Developed a real-time collaborative code editor using Socket.io, achieving <50ms latency for 100 concurrent users.  
+▸ Integrated Google Gemini API for intelligent AI assistance, adding robust error handling for rate-limit and quota failures.  
+▸ Designed a dark UI using Monaco Editor and Tailwind CSS with a smooth draggable resizable side panel layout, real-time team chat, and dynamic file exports across 7 different code languages.  
 
-`[ Socket.io · Google Gemini API · Monaco Editor · React · Tailwind CSS · Node.js ]`
-
-<br/>
-
-### ❯ [Mini Database Engine with CLI and API](https://github.com/niraj-borole10)
-`Systems Programming & Storage Architecture` &nbsp;|&nbsp; `Self Project`
-
-- ▸ Designed and developed a highly modular **C++ database engine** with clearly separated classes for tables, rows, and schema indexing.
-- ▸ Built an interactive CLI utilizing **custom SQL-like syntax** to execute full **CRUD operations** on all stored records.
-- ▸ Achieved exceptional performance benchmarks with **`~780µs` write latency** and **`~1ms` read latency**; extended into a REST API using **Crow C++**.
-
-`[ Modern C++ · Crow C++ REST API · Custom SQL Parser · OOP · System Benchmarking ]`
+`[Socket.io · Google Gemini API · Monaco Editor · React · Tailwind CSS · Node.js]`
 
 <br/>
 
-### ❯ [StudyMate – AI-Powered Student Workspace](https://github.com/niraj-borole10)
-`Agentic AI & Knowledge Retrieval` &nbsp;|&nbsp; `Self Project`
+### `Mini Database Engine with CLI and API`
+[`Low-Latency Systems & Storage Architecture`](https://github.com/niraj-borole10)
 
-- ▸ Built a full-stack student workspace using **MCP servers** to automate email and calendar tasks for over **100+ active students**.
-- ▸ Developed a **FastAPI RAG backend** with **ChromaDB** for secure, user-isolated retrieval of academic study materials.
-- ▸ Integrated **Gmail, Google Calendar, and Drive APIs** to parse incoming assignments, read PDFs, and optimize daily schedules.
+▸ Designed and developed a highly modular C++ database engine with clearly separated classes for tables, rows, and schema indexing.  
+▸ Built a fully interactive CLI utilizing custom SQL-like syntax to manage full CRUD operations on all stored records.  
+▸ Achieved exceptional performance metrics with ~780µs write latency and ~1ms read latency across all benchmarks; extended into a robust RESTful API using Crow C++.  
 
-`[ FastAPI · ChromaDB · RAG · MCP Protocol · Google Workspace APIs · Python ]`
-
-<br/>
-
-### ❯ [CNN-Based Potato Disease Classification System](https://github.com/niraj-borole10)
-`Deep Learning & Computer Vision` &nbsp;|&nbsp; `Self Project`
-
-- ▸ Built deep **CNN & transfer learning models** for 3-class potato blight classification, achieving **`98%+` test accuracy**.
-- ▸ Applied 4 data augmentation transforms and pixel scaling on **2,000+ leaf images** with automated early stopping callbacks.
-- ▸ Constructed a **TensorFlow tf.data pipeline** (batch size 32), optimizing GPU memory usage and **lowering latency by `~40%`**.
-
-`[ TensorFlow · Keras · CNN · Transfer Learning · OpenCV · Python ]`
+`[C++ · Crow C++ · REST API · SQL Parser · System Benchmarking · OOP]`
 
 <br/>
 
-### ❯ [Intelligent Payment Flow & Settlement Engine](https://github.com/niraj-borole10)
-`FinTech Infrastructure & Smart Routing` &nbsp;|&nbsp; `Razorpay Ideathon`
+### `StudyMate – AI-Powered Student Workspace`
+[`Agentic AI & Knowledge Retrieval`](https://github.com/niraj-borole10)
 
-- ▸ Architected an intelligent payment routing solution designed to **eliminate transaction drop-offs** and optimize merchant checkout conversion.
-- ▸ Designed **real-time fraud mitigation heuristics**, dynamic smart retries, and automated merchant settlement reconciliation.
-- ▸ Integrated **Razorpay API workflows** with secure webhook handling and real-time transaction status synchronization.
+▸ Built a full-stack student workspace using MCP servers to automate email and calendar tasks for over 100+ active students.  
+▸ Developed a FastAPI RAG backend with ChromaDB for secure, user-isolated retrieval of academic study materials.  
+▸ Integrated Gmail, Google Calendar, and Drive APIs to parse incoming assignments, read PDFs, and optimize daily schedules.  
 
-`[ FinTech · Razorpay APIs · Webhooks · Distributed Systems · Real-Time Analytics ]`
+`[FastAPI · ChromaDB · RAG · MCP Protocol · Google Workspace APIs · Python]`
+
+<br/>
+
+### `CNN-Based Potato Disease Classification System`
+[`Deep Learning & Computer Vision`](https://github.com/niraj-borole10)
+
+▸ Built CNN and transfer learning models for 3-class potato blight classification, achieving 98%+ test accuracy.  
+▸ Applied 4 data augmentation transforms and pixel scaling on 2,000+ leaf image samples with automated early stopping callbacks.  
+▸ Constructed TensorFlow tf.data pipeline with batch size of 32, optimizing GPU memory usage and lowering latency by ~40%.  
+
+`[TensorFlow · Keras · CNN · Transfer Learning · Computer Vision · OpenCV]`
+
+<br/>
+
+### `Intelligent Payment Flow & Settlement Engine`
+[`FinTech Infrastructure & Smart Routing`](https://github.com/niraj-borole10)
+
+▸ Architected an end-to-end intelligent payment routing solution designed to eliminate transaction drop-offs and optimize checkout conversion.  
+▸ Designed real-time fraud mitigation heuristics, dynamic smart retry mechanisms, and automated merchant settlement reconciliation.  
+▸ Integrated Razorpay API workflows with secure webhook handling and real-time transaction status synchronization.  
+
+`[FinTech · Razorpay APIs · Webhooks · Distributed Systems · Real-Time Analytics]`
 
 <br/>
 <hr style="border: 0; height: 1px; background: #21262D; margin: 20px 0;" />
