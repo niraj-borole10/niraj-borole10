@@ -80,6 +80,16 @@
 <hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- SECTION: GITHUB STATS & STREAKS (ENLARGED & BORDERLESS)                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=niraj-borole10&theme=tokyonight&background=0D1117&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" width="680" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+<hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- SECTION: CYBERPUNK GLOWING CYAN CONTRIBUTION HEATMAP                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <h3 align="left" style="border-bottom: none; margin-top: 24px; margin-bottom: 14px;">
@@ -88,14 +98,4 @@
 
 <div align="center">
   <img src="https://ghchart.rshah.org/00BFFF/niraj-borole10" width="100%" alt="Cyan Contribution Heatmap" />
-</div>
-
-<br/>
-<hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: GITHUB STATS & STREAKS (ENLARGED & BORDERLESS)                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=niraj-borole10&theme=tokyonight&background=0D1117&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" width="680" alt="GitHub Streak Stats" />
 </div>
