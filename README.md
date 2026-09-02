@@ -38,10 +38,6 @@
   <a href="https://leetcode.com/u/Ninja_010/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="34" alt="LeetCode" />
   </a>
-  &nbsp;
-  <a href="https://github.com/niraj-borole10" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=safari&logoColor=white" height="34" alt="Portfolio Website" />
-  </a>
 </p>
 
 ---
