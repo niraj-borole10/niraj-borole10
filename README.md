@@ -1,45 +1,38 @@
-﻿<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- TOP SYSTEM BAR                                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="left" style="border: none; padding-bottom: 6px;">
-      <samp style="color: #6E7681; font-family: monospace; font-size: 11.5px; letter-spacing: 2px;">INIT SEQUENCE // ROOT</samp>
-    </td>
-    <td align="right" style="border: none; padding-bottom: 6px;">
-      <samp style="color: #6E7681; font-family: monospace; font-size: 11.5px; letter-spacing: 2px;">SYS.VER: 1.0.0</samp>
-    </td>
-  </tr>
-</table>
+﻿<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=00BFFF&center=true&width=550&lines=MY+NAME+IS+NIRAJ+BOROLE;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
+  </a>
+</div>
 
-<!-- CYAN ACCENT LINE -->
-<hr style="border: 0; height: 1.5px; background: #00BFFF; margin: 0 0 20px 0;" />
+<br/>
 
-<!-- NAME HEADING -->
-<h1 align="left" style="border-bottom: none; margin: 0 0 10px 0; font-family: 'SF Mono', Monaco, 'Fira Code', 'Courier New', monospace; font-size: 34px; font-weight: 800; color: #F0F6FC; letter-spacing: 1px;">
-  Niraj Borole
-</h1>
+<div align="left">
 
-<!-- METADATA SUB-BAR -->
-<p align="left" style="margin: 0 0 16px 0;">
-  <span style="color: #00BFFF; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 13.5px; font-weight: 700;">Undergrad @ IIT Kharagpur</span>
-  &nbsp;&nbsp;<span style="color: #00BFFF; font-size: 11px;">◆</span>&nbsp;&nbsp;
-  <span style="color: #8B949E; font-family: monospace; font-size: 12px; font-weight: 600;">LINKEDIN :</span>
-  <a href="https://www.linkedin.com/in/niraj-borole-a590b6313/" target="_blank" style="color: #8B949E; text-decoration: none; font-family: monospace; font-size: 12px;">niraj-borole-a590b6313</a>
-  &nbsp;&nbsp;<span style="color: #00BFFF; font-size: 11px;">◆</span>&nbsp;&nbsp;
-  <span style="color: #8B949E; font-family: monospace; font-size: 12px; font-weight: 600;">EMAIL :</span>
-  <a href="mailto:nirajborole0@gmail.com" style="color: #8B949E; text-decoration: none; font-family: monospace; font-size: 12px;">nirajborole0@gmail.com</a>
-  &nbsp;&nbsp;<span style="color: #00BFFF; font-size: 11px;">◆</span>&nbsp;&nbsp;
-  <span style="color: #8B949E; font-family: monospace; font-size: 12px; font-weight: 600;">CF :</span>
-  <a href="https://codeforces.com/profile/Niarj_10" target="_blank" style="color: #8B949E; text-decoration: none; font-family: monospace; font-size: 12px;">Niarj_10</a>
+- 👋 **Hi, I''m Niraj Borole!**
+- 🎓 I am currently a **pre-final year undergraduate student** at **IIT Kharagpur**.
+- 🚀 Aspiring **Software Engineer &amp; Systems Developer**.
+- 🔭 I’m currently working on building scalable applications, low-latency architectures, and optimized algorithms.
+- 🌱 I’m currently learning advanced **Backend Systems**, **Distributed Architectures**, and **AI Pipelines**.
+- ⚡ Competitive programming enthusiast &amp; active problem solver.
+- 💬 Ask me about **C++**, **System Design**, **Full-Stack Development**, and **Algorithms**.
+- 📫 Reach out to me: **[nirajborole0@gmail.com](mailto:nirajborole0@gmail.com)**
+
+</div>
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/niraj-borole-a590b6313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:nirajborole0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<!-- BIO PARAGRAPH -->
-<p align="left" style="color: #8B949E; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14.5px; line-height: 1.65; margin: 0 0 24px 0;">
-  A passionate systems engineer and software builder driven to engineer high-performance scalable architectures. Specializing in modern C++, low-latency database engines, full-stack multi-agent AI platforms, deep learning pipelines, and distributed infrastructure.
-</p>
-
-<hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- SYSTEM ARCHITECTURE (TECH STACK)                                        -->
