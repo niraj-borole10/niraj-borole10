@@ -90,12 +90,12 @@
 <hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: 3D ISOMETRIC MULTI-COLOR CONTRIBUTION GRAPH                    -->
+<!-- SECTION: 3D ISOMETRIC CONTRIBUTION GRAPH                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <h3 align="left" style="border-bottom: none; margin-top: 24px; margin-bottom: 14px;">
-  <span style="color: #00BFFF; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 15px; font-weight: 700; letter-spacing: 5px;">3 D &nbsp; C O N T R I B U T I O N &nbsp; M A P</span>
+  <span style="color: #00BFFF; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 15px; font-weight: 700; letter-spacing: 5px;">C O N T R I B U T I O N &nbsp; G R A P H</span>
 </h3>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Niraj's 3D Isometric Rainbow Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/niraj-borole10/niraj-borole10/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Contribution Graph" />
 </div>
