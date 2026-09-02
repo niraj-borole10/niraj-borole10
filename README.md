@@ -6,17 +6,15 @@
     <td align="left" style="border: 0;">
       <samp>
         <span style="color: #38BDF8; font-family: 'SF Mono', Monaco, 'Fira Code', 'Courier New', monospace; font-size: 15px; font-weight: 700; letter-spacing: 0.5px;">
-          ❯ <span style="color: #58A6FF;">Chemical Eng. Undergrad</span> <span style="color: #8B949E;">@</span> <span style="color: #7EE787;">IIT Kharagpur</span>
+          ❯ <span style="color: #58A6FF;">Pre-Final Year Undergrad</span> <span style="color: #8B949E;">@</span> <span style="color: #7EE787;">IIT Kharagpur</span>
         </span>
       </samp>
     </td>
     <td align="right" style="border: 0;">
       <samp>
-        <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank" style="color: #C9D1D9; text-decoration: none; font-family: monospace; font-size: 12px; font-weight: 600;">LINKEDIN</a>
+        <a href="https://www.linkedin.com/in/niraj-borole-a590b6313/" target="_blank" style="color: #58A6FF; text-decoration: none; font-family: monospace; font-size: 12px; font-weight: 600;">LINKEDIN</a>
         <span style="color: #38BDF8; font-size: 11px;"> ◆ </span>
-        <a href="mailto:your.email@example.com" style="color: #C9D1D9; text-decoration: none; font-family: monospace; font-size: 12px; font-weight: 600;">EMAIL</a>
-        <span style="color: #38BDF8; font-size: 11px;"> ◆ </span>
-        <a href="https://x.com/YOUR_HANDLE" target="_blank" style="color: #C9D1D9; text-decoration: none; font-family: monospace; font-size: 12px; font-weight: 600;">TWITTER</a>
+        <a href="mailto:nirajborole0@gmail.com" style="color: #58A6FF; text-decoration: none; font-family: monospace; font-size: 12px; font-weight: 600;">EMAIL</a>
       </samp>
     </td>
   </tr>
@@ -28,8 +26,8 @@
 <!-- BIO & CORE IDENTITY                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="left">
-  <p style="color: #8B949E; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14.5px; line-height: 1.65; margin: 0 0 16px 0;">
-    Undergraduate engineer and systems builder focused on low-latency infrastructure, algorithmic optimization, and high-throughput backend services. Specialized in modern C++, memory-efficient concurrency models, and distributed AI platforms with a track record in competitive programming. Driven to engineer deterministic, production-grade software architectures operating at massive scale.
+  <p style="color: #C9D1D9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14.5px; line-height: 1.65; margin: 0 0 16px 0;">
+    Hi, I’m <b>Niraj Borole</b> — a pre-final year undergraduate student at <b>IIT Kharagpur</b>. Passionate about software engineering, scalable architectures, and problem-solving. Constantly exploring low-level optimizations, distributed systems, modern full-stack development, and machine learning pipelines.
   </p>
 </div>
 
@@ -39,28 +37,90 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" height="1" style="max-height: 1px; display: block; margin: 12px 0;" alt="Divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION HEADER: 01 SYSTEM ARCHITECTURE / PROJECTS                       -->
+<!-- SECTION HEADER: 01 TECH STACK & TOOLCHAIN                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<h3 align="left" style="margin-top: 24px; margin-bottom: 16px; border-bottom: none;">
+<h3 align="left" style="margin-top: 24px; margin-bottom: 14px; border-bottom: none;">
   <span style="color: #58A6FF; font-family: monospace; font-size: 22px; font-weight: 800;">01</span>
   &nbsp;&nbsp;
-  <span style="color: #F0F6FC; font-family: 'SF Mono', Monaco, monospace; font-size: 15px; font-weight: 700; letter-spacing: 5px;">S Y S T E M &nbsp; A R C H I T E C T U R E</span>
+  <span style="color: #F0F6FC; font-family: 'SF Mono', Monaco, monospace; font-size: 14px; font-weight: 700; letter-spacing: 4px;">T E C H &nbsp; S T A C K &nbsp; &amp; &nbsp; T O O L S</span>
 </h3>
 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: 0; padding: 6px 0;">
+      <samp style="font-size: 13.5px; line-height: 1.8;">
+        <span style="color: #58A6FF; font-weight: bold;">❯ Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:</span>
+        &nbsp;<span style="color: #7EE787;">[C++]</span>
+        &nbsp;<span style="color: #7EE787;">[C]</span>
+        &nbsp;<span style="color: #7EE787;">[Python]</span>
+        &nbsp;<span style="color: #7EE787;">[JavaScript]</span>
+        &nbsp;<span style="color: #7EE787;">[TypeScript]</span>
+        &nbsp;<span style="color: #7EE787;">[SQL]</span>
+        &nbsp;<span style="color: #7EE787;">[Bash]</span>
+      </samp>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 0; padding: 6px 0;">
+      <samp style="font-size: 13.5px; line-height: 1.8;">
+        <span style="color: #58A6FF; font-weight: bold;">❯ Web &amp; Backend &nbsp;&nbsp;&nbsp;:</span>
+        &nbsp;<span style="color: #7EE787;">[React.js]</span>
+        &nbsp;<span style="color: #7EE787;">[Next.js]</span>
+        &nbsp;<span style="color: #7EE787;">[Node.js]</span>
+        &nbsp;<span style="color: #7EE787;">[Express]</span>
+        &nbsp;<span style="color: #7EE787;">[Tailwind CSS]</span>
+        &nbsp;<span style="color: #7EE787;">[REST APIs]</span>
+      </samp>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 0; padding: 6px 0;">
+      <samp style="font-size: 13.5px; line-height: 1.8;">
+        <span style="color: #58A6FF; font-weight: bold;">❯ Core &amp; Systems &nbsp;&nbsp;:</span>
+        &nbsp;<span style="color: #7EE787;">[Data Structures &amp; Algorithms]</span>
+        &nbsp;<span style="color: #7EE787;">[OOP]</span>
+        &nbsp;<span style="color: #7EE787;">[DBMS]</span>
+        &nbsp;<span style="color: #7EE787;">[Operating Systems]</span>
+      </samp>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 0; padding: 6px 0;">
+      <samp style="font-size: 13.5px; line-height: 1.8;">
+        <span style="color: #58A6FF; font-weight: bold;">❯ Tools &amp; DevOps &nbsp;&nbsp;&nbsp;:</span>
+        &nbsp;<span style="color: #7EE787;">[Git]</span>
+        &nbsp;<span style="color: #7EE787;">[GitHub]</span>
+        &nbsp;<span style="color: #7EE787;">[Docker]</span>
+        &nbsp;<span style="color: #7EE787;">[Linux]</span>
+        &nbsp;<span style="color: #7EE787;">[VS Code]</span>
+        &nbsp;<span style="color: #7EE787;">[Postman]</span>
+      </samp>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- PROJECT CARDS / SHOWCASE (TERMINAL THEMED)                              -->
+<!-- SECTION HEADER: 02 FEATURED PROJECTS                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<h3 align="left" style="margin-top: 16px; margin-bottom: 14px; border-bottom: none;">
+  <span style="color: #58A6FF; font-family: monospace; font-size: 22px; font-weight: 800;">02</span>
+  &nbsp;&nbsp;
+  <span style="color: #F0F6FC; font-family: 'SF Mono', Monaco, monospace; font-size: 14px; font-weight: 700; letter-spacing: 4px;">F E A T U R E D &nbsp; P R O J E C T S</span>
+</h3>
+
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td style="border: 0; padding: 6px 0;">
       <samp style="font-size: 13.5px; line-height: 1.6;">
         <span style="color: #58A6FF; font-weight: bold;">❯</span> 
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_1" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Distributed Order Engine</a> 
-        <span style="color: #8B949E;">— Low-latency asynchronous matching engine with sub-microsecond tick execution.</span>
+        <a href="https://github.com/niraj-borole10" style="color: #58A6FF; text-decoration: none; font-weight: bold;">High-Performance Matching Engine</a> 
+        <span style="color: #8B949E;">— Low-latency order matching runtime with sub-millisecond execution.</span>
         <br/>
-        &nbsp;&nbsp;&nbsp;<span style="color: #7EE787; font-size: 12px;">[C++20]</span>
-        <span style="color: #7EE787; font-size: 12px;">[Lock-Free Queues]</span>
-        <span style="color: #7EE787; font-size: 12px;">[POSIX Sockets]</span>
+        &nbsp;&nbsp;&nbsp;<span style="color: #7EE787; font-size: 12px;">[C++]</span>
+        <span style="color: #7EE787; font-size: 12px;">[Multithreading]</span>
+        <span style="color: #7EE787; font-size: 12px;">[Data Structures]</span>
       </samp>
     </td>
   </tr>
@@ -68,12 +128,13 @@
     <td style="border: 0; padding: 6px 0;">
       <samp style="font-size: 13.5px; line-height: 1.6;">
         <span style="color: #58A6FF; font-weight: bold;">❯</span> 
-        <a href="https://github.com/YOUR_USERNAME/PROJECT_2" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Neural Inference Pipeline</a> 
-        <span style="color: #8B949E;">— High-throughput CUDA-accelerated batching runtime for real-time edge workloads.</span>
+        <a href="https://github.com/niraj-borole10" style="color: #58A6FF; text-decoration: none; font-weight: bold;">Full-Stack Web Platform</a> 
+        <span style="color: #8B949E;">— Scalable modern web application featuring authentication, real-time sync, and REST APIs.</span>
         <br/>
-        &nbsp;&nbsp;&nbsp;<span style="color: #7EE787; font-size: 12px;">[C++]</span>
-        <span style="color: #7EE787; font-size: 12px;">[CUDA]</span>
-        <span style="color: #7EE787; font-size: 12px;">[Python/PyTorch]</span>
+        &nbsp;&nbsp;&nbsp;<span style="color: #7EE787; font-size: 12px;">[React]</span>
+        <span style="color: #7EE787; font-size: 12px;">[Node.js]</span>
+        <span style="color: #7EE787; font-size: 12px;">[Express]</span>
+        <span style="color: #7EE787; font-size: 12px;">[PostgreSQL]</span>
       </samp>
     </td>
   </tr>
