@@ -97,5 +97,5 @@
 </h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/niraj-borole10/niraj-borole10/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Contribution Graph" />
 </div>
