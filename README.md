@@ -1,11 +1,29 @@
 ﻿<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- TOP BANNER (CYBER BLUE AESTHETIC GIF)                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Blue Banner" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ANIMATED TYPING HEADER & INTRO                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="left">
+  <a href="https://github.com/niraj-borole10">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=38BDF8&background=0D111700&width=650&lines=My+name+is+Niraj+Borole;Welcome+to+my+profile+👋;Pre-Final+Year+Undergrad+%40+IIT+Kharagpur;Passionate+about+Systems+%26+Full-Stack+Engineering" alt="Typing Header" />
+  </a>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- TERMINAL HEADER & NAVIGATION BAR                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="left" style="border: 0;">
       <samp>
-        <span style="color: #38BDF8; font-family: 'SF Mono', Monaco, 'Fira Code', 'Courier New', monospace; font-size: 15px; font-weight: 700; letter-spacing: 0.5px;">
+        <span style="color: #38BDF8; font-family: 'SF Mono', Monaco, 'Fira Code', 'Courier New', monospace; font-size: 14.5px; font-weight: 700; letter-spacing: 0.5px;">
           ❯ <span style="color: #58A6FF;">Pre-Final Year Undergrad</span> <span style="color: #8B949E;">@</span> <span style="color: #7EE787;">IIT Kharagpur</span>
         </span>
       </samp>
@@ -27,7 +45,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="left">
   <p style="color: #C9D1D9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14.5px; line-height: 1.65; margin: 0 0 16px 0;">
-    Hi, I’m <b>Niraj Borole</b> — a pre-final year undergraduate student at <b>IIT Kharagpur</b>. Passionate about software engineering, scalable architectures, and problem-solving. Constantly exploring low-level optimizations, distributed systems, modern full-stack development, and machine learning pipelines.
+    I’m an engineering undergraduate at <b>IIT Kharagpur</b> passionate about building high-throughput systems, low-latency software architectures, and modern web applications. Currently solving complex algorithmic challenges and exploring distributed backends, modern full-stack development, and machine learning pipelines.
   </p>
 </div>
 
@@ -139,3 +157,14 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS & METRICS (DARK / BLUE THEMED)                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj-borole10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj-borole10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" height="150" alt="Top Languages" />
+</div>
