@@ -9,7 +9,7 @@
 <div align="left">
 
 - 👋 **Hi, I''m Niraj Borole!**
-- 🎓 **B.Tech (Hons.) in Chemical Engineering** with **Minor in Computer Science & Engineering** @ **IIT Kharagpur** (CGPA: 8.92/10).
+- 🎓 **B.Tech (Hons.) in Chemical Engineering** with **Minor in Computer Science & Engineering** @ **IIT Kharagpur** (CGPA: **8.92/10**).
 - 🚀 Passionate about **High-Performance Systems**, **Distributed Architectures**, and **AI-Driven Engineering**.
 - 🏆 **Silver Medalist** @ Inter IIT Tech Meet 14.0 | **AIR 4310** in JEE Advanced 2024.
 - ⚡ **Specialist (1419)** on Codeforces & **1680 peak rating** on LeetCode.
@@ -83,7 +83,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: 02 FEATURED PROJECTS (SLEEK TERMINAL CARD LAYOUT)              -->
+<!-- SECTION: 02 FEATURED PROJECTS                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; margin-top: 10px;">
   <tr style="border: none;">
@@ -95,80 +95,68 @@
   </tr>
 </table>
 
-<!-- Project 1: Collaborative Code Editor -->
-<h3><samp style="color: #F0F6FC; font-weight: 700;">Collaborative Code Editor with Integrated AI Assistance</samp></h3>
-<p style="margin-top: -8px; margin-bottom: 12px;">
-  <samp style="color: #00BFFF; font-weight: 600; font-size: 13.5px;">Real-Time Distributed Systems | Self Project</samp>
+### ❯ <span style="color: #58A6FF;">Collaborative Code Editor with Integrated AI Assistance</span>
+<p style="margin-top: -6px; margin-bottom: 10px;">
+  <span style="color: #00BFFF;"><b>Real-Time Distributed Systems</b></span> &nbsp;<span style="color: #8B949E;">|</span>&nbsp; <span style="color: #7EE787;"><b>Self Project</b></span>
 </p>
 
-<samp style="color: #C9D1D9; font-size: 13.5px; line-height: 1.7;">
-▸ Developed a real-time collaborative code editor using Socket.io, achieving &lt;50ms latency for 100 concurrent users.<br/>
-▸ Integrated Google Gemini API for intelligent AI assistance, adding robust error handling for rate-limit and quota failures.<br/>
-▸ Designed a dark UI using Monaco Editor and Tailwind CSS with a smooth draggable resizable side panel layout, real-time team chat, and instant auto-formatting across 7 languages.<br/>
-</samp>
-<p style="margin-top: 8px; margin-bottom: 24px;">
-  <samp style="color: #8B949E; font-size: 13px;">[Socket.io &middot; Google Gemini API &middot; Monaco Editor &middot; React &middot; Tailwind CSS &middot; Node.js]</samp>
+- ▸ Developed a real-time collaborative code editor using **Socket.io**, achieving **`< 50ms` latency** for **100 concurrent users**.
+- ▸ Integrated **Google Gemini API** for intelligent AI assistance, adding robust error handling for rate-limit and quota failures.
+- ▸ Designed a dark UI using **Monaco Editor** and **Tailwind CSS** with draggable resizable side panels, real-time team chat, and dynamic exports across **7 languages**.
+
+`[ Socket.io · Google Gemini API · Monaco Editor · React · Tailwind CSS · Node.js ]`
+
+<br/>
+
+### ❯ <span style="color: #58A6FF;">Mini Database Engine with CLI and API</span>
+<p style="margin-top: -6px; margin-bottom: 10px;">
+  <span style="color: #00BFFF;"><b>Systems Programming &amp; Storage Architecture</b></span> &nbsp;<span style="color: #8B949E;">|</span>&nbsp; <span style="color: #7EE787;"><b>Self Project</b></span>
 </p>
 
-<!-- Project 2: Mini Database Engine -->
-<h3><samp style="color: #F0F6FC; font-weight: 700;">Mini Database Engine with CLI and API</samp></h3>
-<p style="margin-top: -8px; margin-bottom: 12px;">
-  <samp style="color: #00BFFF; font-weight: 600; font-size: 13.5px;">Systems Programming &amp; Storage Architecture | Self Project</samp>
+- ▸ Designed and developed a highly modular **C++ database engine** with clearly separated classes for tables, rows, and schema indexing.
+- ▸ Built an interactive CLI utilizing **custom SQL-like syntax** to execute full **CRUD operations** on all stored records.
+- ▸ Achieved exceptional performance benchmarks with **`~780µs` write latency** and **`~1ms` read latency**; extended into a REST API using **Crow C++**.
+
+`[ Modern C++ · Crow C++ REST API · SQL Parser · System Benchmarking · OOP ]`
+
+<br/>
+
+### ❯ <span style="color: #58A6FF;">StudyMate – AI-Powered Student Workspace</span>
+<p style="margin-top: -6px; margin-bottom: 10px;">
+  <span style="color: #00BFFF;"><b>Agentic AI &amp; Knowledge Retrieval</b></span> &nbsp;<span style="color: #8B949E;">|</span>&nbsp; <span style="color: #7EE787;"><b>Self Project</b></span>
 </p>
 
-<samp style="color: #C9D1D9; font-size: 13.5px; line-height: 1.7;">
-▸ Designed and developed a highly modular C++ database engine with clearly separated classes for tables, rows, and schema indexing.<br/>
-▸ Built a fully interactive CLI utilizing custom SQL-like syntax to manage full CRUD operations on all stored records.<br/>
-▸ Achieved exceptional performance metrics with ~780µs write latency and ~1ms read latency; extended into a robust RESTful API using Crow C++.<br/>
-</samp>
-<p style="margin-top: 8px; margin-bottom: 24px;">
-  <samp style="color: #8B949E; font-size: 13px;">[Modern C++ &middot; Crow C++ REST API &middot; Custom SQL Parser &middot; OOP &middot; Low-Latency Benchmarking]</samp>
+- ▸ Built a full-stack student workspace using **MCP servers** to automate email and calendar tasks for over **100+ active students**.
+- ▸ Developed a **FastAPI RAG backend** with **ChromaDB** for secure, user-isolated retrieval of academic study materials.
+- ▸ Integrated **Gmail, Google Calendar, and Drive APIs** to parse incoming assignments, read PDFs, and optimize daily schedules.
+
+`[ FastAPI · ChromaDB · RAG · MCP Protocol · Google Workspace APIs · Python ]`
+
+<br/>
+
+### ❯ <span style="color: #58A6FF;">CNN-Based Potato Disease Classification System</span>
+<p style="margin-top: -6px; margin-bottom: 10px;">
+  <span style="color: #00BFFF;"><b>Deep Learning &amp; Computer Vision</b></span> &nbsp;<span style="color: #8B949E;">|</span>&nbsp; <span style="color: #7EE787;"><b>Self Project</b></span>
 </p>
 
-<!-- Project 3: StudyMate -->
-<h3><samp style="color: #F0F6FC; font-weight: 700;">StudyMate – AI-Powered Student Workspace</samp></h3>
-<p style="margin-top: -8px; margin-bottom: 12px;">
-  <samp style="color: #00BFFF; font-weight: 600; font-size: 13.5px;">Agentic AI &amp; Knowledge Retrieval | Self Project</samp>
+- ▸ Built deep **CNN &amp; transfer learning models** for 3-class potato blight classification, achieving **`98%+` test accuracy**.
+- ▸ Applied 4 data augmentation transforms and pixel scaling on **2,000+ leaf images** with automated early stopping callbacks.
+- ▸ Constructed a **TensorFlow tf.data pipeline** (batch size 32), optimizing GPU memory usage and **lowering latency by `~40%`**.
+
+`[ TensorFlow · Keras · CNN · Transfer Learning · OpenCV · Python ]`
+
+<br/>
+
+### ❯ <span style="color: #58A6FF;">Intelligent Payment Flow &amp; Settlement Engine</span>
+<p style="margin-top: -6px; margin-bottom: 10px;">
+  <span style="color: #00BFFF;"><b>FinTech Infrastructure &amp; Smart Routing</b></span> &nbsp;<span style="color: #8B949E;">|</span>&nbsp; <span style="color: #7EE787;"><b>Razorpay Ideathon</b></span>
 </p>
 
-<samp style="color: #C9D1D9; font-size: 13.5px; line-height: 1.7;">
-▸ Built a full-stack student workspace using MCP servers to automate email and calendar tasks for over 100+ active students.<br/>
-▸ Developed a FastAPI RAG backend with ChromaDB for secure, user-isolated retrieval of academic study materials.<br/>
-▸ Integrated Gmail, Google Calendar, and Drive APIs to parse incoming assignments, read PDFs, and optimize daily schedules.<br/>
-</samp>
-<p style="margin-top: 8px; margin-bottom: 24px;">
-  <samp style="color: #8B949E; font-size: 13px;">[FastAPI &middot; ChromaDB &middot; RAG &middot; MCP Servers &middot; Google Workspace APIs &middot; Python]</samp>
-</p>
+- ▸ Architected an intelligent payment routing solution designed to **eliminate transaction drop-offs** and optimize merchant checkout conversion.
+- ▸ Designed **real-time fraud mitigation heuristics**, dynamic smart retries, and automated merchant settlement reconciliation.
+- ▸ Integrated **Razorpay API workflows** with secure webhook handling and real-time transaction status synchronization.
 
-<!-- Project 4: CNN Potato Disease Classifier -->
-<h3><samp style="color: #F0F6FC; font-weight: 700;">CNN-Based Potato Disease Classification System</samp></h3>
-<p style="margin-top: -8px; margin-bottom: 12px;">
-  <samp style="color: #00BFFF; font-weight: 600; font-size: 13.5px;">Deep Learning &amp; Computer Vision | Self Project</samp>
-</p>
-
-<samp style="color: #C9D1D9; font-size: 13.5px; line-height: 1.7;">
-▸ Built deep CNN &amp; transfer learning models for 3-class potato blight classification, achieving 98%+ test accuracy.<br/>
-▸ Applied 4 data augmentation transforms and pixel scaling on 2,000+ leaf image samples with automated early stopping callbacks.<br/>
-▸ Constructed TensorFlow tf.data pipeline with batch size of 32, optimizing GPU memory usage and lowering latency by ~40%.<br/>
-</samp>
-<p style="margin-top: 8px; margin-bottom: 24px;">
-  <samp style="color: #8B949E; font-size: 13px;">[TensorFlow &middot; Keras &middot; CNN &middot; Transfer Learning &middot; OpenCV &middot; Python]</samp>
-</p>
-
-<!-- Project 5: Razorpay Ideathon -->
-<h3><samp style="color: #F0F6FC; font-weight: 700;">Intelligent Payment Flow &amp; Settlement Engine</samp></h3>
-<p style="margin-top: -8px; margin-bottom: 12px;">
-  <samp style="color: #00BFFF; font-weight: 600; font-size: 13.5px;">FinTech Infrastructure &amp; Smart Routing | Razorpay Ideathon</samp>
-</p>
-
-<samp style="color: #C9D1D9; font-size: 13.5px; line-height: 1.7;">
-▸ Architected an end-to-end intelligent payment routing solution designed to eliminate transaction drop-offs and optimize merchant checkout conversion.<br/>
-▸ Designed real-time fraud mitigation heuristics, smart dynamic retry mechanisms, and automated merchant settlement reconciliation.<br/>
-▸ Integrated Razorpay API workflows with secure webhook handling and real-time transaction status synchronization.<br/>
-</samp>
-<p style="margin-top: 8px; margin-bottom: 24px;">
-  <samp style="color: #8B949E; font-size: 13px;">[FinTech &middot; Razorpay APIs &middot; Webhooks &middot; Distributed Systems &middot; Real-Time Analytics]</samp>
-</p>
+`[ FinTech · Razorpay APIs · Webhooks · Distributed Systems · Real-Time Analytics ]`
 
 <br/>
 <hr style="border: 0; height: 1px; background: #21262D; margin: 20px 0;" />
