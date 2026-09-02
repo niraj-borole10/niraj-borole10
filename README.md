@@ -33,17 +33,11 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: 01 SYSTEM ARCHITECTURE (TECH STACK)                            -->
+<!-- SYSTEM ARCHITECTURE (TECH STACK)                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; margin-top: 10px;">
-  <tr style="border: none;">
-    <td align="left" style="border: none; padding-bottom: 20px;">
-      <span style="color: #00BFFF; font-family: monospace; font-size: 22px; font-weight: 900;">01</span>
-      &nbsp;&nbsp;
-      <span style="color: #F0F6FC; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 14px; font-weight: 700; letter-spacing: 5px;">S Y S T E M &nbsp; A R C H I T E C T U R E</span>
-    </td>
-  </tr>
-</table>
+<h3 align="left" style="border-bottom: none; margin-top: 24px; margin-bottom: 18px;">
+  <span style="color: #00BFFF; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 15px; font-weight: 700; letter-spacing: 5px;">S Y S T E M &nbsp; A R C H I T E C T U R E</span>
+</h3>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
@@ -81,19 +75,11 @@
 </table>
 
 <br/>
+<hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: 02 FEATURED PROJECTS                                           -->
+<!-- PROJECTS SHOWCASE                                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; margin-top: 10px;">
-  <tr style="border: none;">
-    <td align="left" style="border: none; padding-bottom: 20px;">
-      <span style="color: #00BFFF; font-family: monospace; font-size: 22px; font-weight: 900;">02</span>
-      &nbsp;&nbsp;
-      <span style="color: #F0F6FC; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 14px; font-weight: 700; letter-spacing: 5px;">F E A T U R E D &nbsp; P R O J E C T S</span>
-    </td>
-  </tr>
-</table>
 
 <!-- Project 1: Collaborative Code Editor -->
 <h3 align="left" style="border-bottom: none; margin-top: 18px; margin-bottom: 4px;">
@@ -107,7 +93,7 @@
 ▸ Integrated Google Gemini API for intelligent AI assistance, adding robust error handling for rate-limit and quota failures.<br/>
 ▸ Designed a dark UI using Monaco Editor and Tailwind CSS with a smooth draggable resizable side panel layout, real-time team chat, and dynamic file exports across 7 different code languages.<br/>
 
-<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 30px;">
   [Socket.io &middot; Google Gemini API &middot; Monaco Editor &middot; React &middot; Tailwind CSS &middot; Node.js]
 </p>
 
@@ -123,7 +109,7 @@
 ▸ Built a fully interactive CLI utilizing custom SQL-like syntax to manage full CRUD operations on all stored records.<br/>
 ▸ Achieved exceptional performance metrics with ~780µs write latency and ~1ms read latency across all benchmarks; extended into a robust RESTful API using Crow C++.<br/>
 
-<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 30px;">
   [C++ &middot; Crow C++ &middot; REST API &middot; SQL Parser &middot; System Benchmarking &middot; OOP]
 </p>
 
@@ -139,7 +125,7 @@
 ▸ Developed a FastAPI RAG backend with ChromaDB for secure, user-isolated retrieval of academic study materials.<br/>
 ▸ Integrated Gmail, Google Calendar, and Drive APIs to parse incoming assignments, read PDFs, and optimize daily schedules.<br/>
 
-<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 30px;">
   [FastAPI &middot; ChromaDB &middot; RAG &middot; MCP Protocol &middot; Google Workspace APIs &middot; Python]
 </p>
 
@@ -155,7 +141,7 @@
 ▸ Applied 4 data augmentation transforms and pixel scaling on 2,000+ leaf image samples with automated early stopping callbacks.<br/>
 ▸ Constructed TensorFlow tf.data pipeline with batch size of 32, optimizing GPU memory usage and lowering latency by ~40%.<br/>
 
-<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 30px;">
   [TensorFlow &middot; Keras &middot; CNN &middot; Transfer Learning &middot; Computer Vision &middot; OpenCV]
 </p>
 
@@ -171,7 +157,7 @@
 ▸ Designed real-time fraud mitigation heuristics, dynamic smart retry mechanisms, and automated merchant settlement reconciliation.<br/>
 ▸ Integrated Razorpay API workflows with secure webhook handling and real-time transaction status synchronization.<br/>
 
-<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 30px;">
   [FinTech &middot; Razorpay APIs &middot; Webhooks &middot; Distributed Systems &middot; Real-Time Analytics]
 </p>
 
