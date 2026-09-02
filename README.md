@@ -90,12 +90,12 @@
 <hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION: CYBERPUNK GLOWING CYAN CONTRIBUTION HEATMAP                    -->
+<!-- SECTION: 3D ISOMETRIC MULTI-COLOR CONTRIBUTION GRAPH                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <h3 align="left" style="border-bottom: none; margin-top: 24px; margin-bottom: 14px;">
-  <span style="color: #00BFFF; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 15px; font-weight: 700; letter-spacing: 5px;">C O N T R I B U T I O N &nbsp; G R A P H</span>
+  <span style="color: #00BFFF; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 15px; font-weight: 700; letter-spacing: 5px;">3 D &nbsp; C O N T R I B U T I O N &nbsp; M A P</span>
 </h3>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00BFFF/niraj-borole10" width="100%" alt="Cyan Contribution Heatmap" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Niraj's 3D Isometric Rainbow Contribution Graph" />
 </div>
