@@ -80,6 +80,20 @@
 <hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- SECTION: CYBERPUNK GLOWING CYAN CONTRIBUTION HEATMAP                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<h3 align="left" style="border-bottom: none; margin-top: 24px; margin-bottom: 14px;">
+  <span style="color: #00BFFF; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 15px; font-weight: 700; letter-spacing: 5px;">C O N T R I B U T I O N &nbsp; G R A P H</span>
+</h3>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00BFFF/niraj-borole10" width="100%" alt="Cyan Contribution Heatmap" />
+</div>
+
+<br/>
+<hr style="border: 0; height: 1px; background: #21262D; margin: 24px 0;" />
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- SECTION: GITHUB STATS & STREAKS (ENLARGED & BORDERLESS)                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
