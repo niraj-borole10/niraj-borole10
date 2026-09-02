@@ -95,58 +95,85 @@
   </tr>
 </table>
 
-### `Collaborative Code Editor with Integrated AI Assistance`
-[`Real-Time Distributed Systems`](https://github.com/niraj-borole10)
+<!-- Project 1: Collaborative Code Editor -->
+<h3 align="left" style="border-bottom: none; margin-top: 18px; margin-bottom: 4px;">
+  <samp style="color: #F0F6FC; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 18px; font-weight: 700;">Collaborative Code Editor with Integrated AI Assistance</samp>
+</h3>
+<p align="left" style="margin-top: 0; margin-bottom: 10px;">
+  <a href="https://github.com/niraj-borole10" style="color: #38BDF8; text-decoration: none; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 13.5px; font-weight: 600;">Real-Time Distributed Systems</a>
+</p>
 
-▸ Developed a real-time collaborative code editor using Socket.io, achieving <50ms latency for 100 concurrent users.  
-▸ Integrated Google Gemini API for intelligent AI assistance, adding robust error handling for rate-limit and quota failures.  
-▸ Designed a dark UI using Monaco Editor and Tailwind CSS with a smooth draggable resizable side panel layout, real-time team chat, and dynamic file exports across 7 different code languages.  
+▸ Developed a real-time collaborative code editor using Socket.io, achieving <50ms latency for 100 concurrent users.<br/>
+▸ Integrated Google Gemini API for intelligent AI assistance, adding robust error handling for rate-limit and quota failures.<br/>
+▸ Designed a dark UI using Monaco Editor and Tailwind CSS with a smooth draggable resizable side panel layout, real-time team chat, and dynamic file exports across 7 different code languages.<br/>
 
-`[Socket.io · Google Gemini API · Monaco Editor · React · Tailwind CSS · Node.js]`
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+  [Socket.io &middot; Google Gemini API &middot; Monaco Editor &middot; React &middot; Tailwind CSS &middot; Node.js]
+</p>
 
-<br/>
+<!-- Project 2: Mini Database Engine -->
+<h3 align="left" style="border-bottom: none; margin-top: 18px; margin-bottom: 4px;">
+  <samp style="color: #F0F6FC; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 18px; font-weight: 700;">Mini Database Engine with CLI and API</samp>
+</h3>
+<p align="left" style="margin-top: 0; margin-bottom: 10px;">
+  <a href="https://github.com/niraj-borole10" style="color: #38BDF8; text-decoration: none; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 13.5px; font-weight: 600;">Low-Latency Systems &amp; Storage Architecture</a>
+</p>
 
-### `Mini Database Engine with CLI and API`
-[`Low-Latency Systems & Storage Architecture`](https://github.com/niraj-borole10)
+▸ Designed and developed a highly modular C++ database engine with clearly separated classes for tables, rows, and schema indexing.<br/>
+▸ Built a fully interactive CLI utilizing custom SQL-like syntax to manage full CRUD operations on all stored records.<br/>
+▸ Achieved exceptional performance metrics with ~780µs write latency and ~1ms read latency across all benchmarks; extended into a robust RESTful API using Crow C++.<br/>
 
-▸ Designed and developed a highly modular C++ database engine with clearly separated classes for tables, rows, and schema indexing.  
-▸ Built a fully interactive CLI utilizing custom SQL-like syntax to manage full CRUD operations on all stored records.  
-▸ Achieved exceptional performance metrics with ~780µs write latency and ~1ms read latency across all benchmarks; extended into a robust RESTful API using Crow C++.  
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+  [C++ &middot; Crow C++ &middot; REST API &middot; SQL Parser &middot; System Benchmarking &middot; OOP]
+</p>
 
-`[C++ · Crow C++ · REST API · SQL Parser · System Benchmarking · OOP]`
+<!-- Project 3: StudyMate -->
+<h3 align="left" style="border-bottom: none; margin-top: 18px; margin-bottom: 4px;">
+  <samp style="color: #F0F6FC; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 18px; font-weight: 700;">StudyMate – AI-Powered Student Workspace</samp>
+</h3>
+<p align="left" style="margin-top: 0; margin-bottom: 10px;">
+  <a href="https://github.com/niraj-borole10" style="color: #38BDF8; text-decoration: none; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 13.5px; font-weight: 600;">Agentic AI &amp; Knowledge Retrieval</a>
+</p>
 
-<br/>
+▸ Built a full-stack student workspace using MCP servers to automate email and calendar tasks for over 100+ active students.<br/>
+▸ Developed a FastAPI RAG backend with ChromaDB for secure, user-isolated retrieval of academic study materials.<br/>
+▸ Integrated Gmail, Google Calendar, and Drive APIs to parse incoming assignments, read PDFs, and optimize daily schedules.<br/>
 
-### `StudyMate – AI-Powered Student Workspace`
-[`Agentic AI & Knowledge Retrieval`](https://github.com/niraj-borole10)
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+  [FastAPI &middot; ChromaDB &middot; RAG &middot; MCP Protocol &middot; Google Workspace APIs &middot; Python]
+</p>
 
-▸ Built a full-stack student workspace using MCP servers to automate email and calendar tasks for over 100+ active students.  
-▸ Developed a FastAPI RAG backend with ChromaDB for secure, user-isolated retrieval of academic study materials.  
-▸ Integrated Gmail, Google Calendar, and Drive APIs to parse incoming assignments, read PDFs, and optimize daily schedules.  
+<!-- Project 4: CNN Potato Disease Classifier -->
+<h3 align="left" style="border-bottom: none; margin-top: 18px; margin-bottom: 4px;">
+  <samp style="color: #F0F6FC; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 18px; font-weight: 700;">CNN-Based Potato Disease Classification System</samp>
+</h3>
+<p align="left" style="margin-top: 0; margin-bottom: 10px;">
+  <a href="https://github.com/niraj-borole10" style="color: #38BDF8; text-decoration: none; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 13.5px; font-weight: 600;">Deep Learning &amp; Computer Vision</a>
+</p>
 
-`[FastAPI · ChromaDB · RAG · MCP Protocol · Google Workspace APIs · Python]`
+▸ Built CNN and transfer learning models for 3-class potato blight classification, achieving 98%+ test accuracy.<br/>
+▸ Applied 4 data augmentation transforms and pixel scaling on 2,000+ leaf image samples with automated early stopping callbacks.<br/>
+▸ Constructed TensorFlow tf.data pipeline with batch size of 32, optimizing GPU memory usage and lowering latency by ~40%.<br/>
 
-<br/>
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+  [TensorFlow &middot; Keras &middot; CNN &middot; Transfer Learning &middot; Computer Vision &middot; OpenCV]
+</p>
 
-### `CNN-Based Potato Disease Classification System`
-[`Deep Learning & Computer Vision`](https://github.com/niraj-borole10)
+<!-- Project 5: Razorpay Ideathon -->
+<h3 align="left" style="border-bottom: none; margin-top: 18px; margin-bottom: 4px;">
+  <samp style="color: #F0F6FC; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 18px; font-weight: 700;">Intelligent Payment Flow &amp; Settlement Engine</samp>
+</h3>
+<p align="left" style="margin-top: 0; margin-bottom: 10px;">
+  <a href="https://github.com/niraj-borole10" style="color: #38BDF8; text-decoration: none; font-family: 'SF Mono', Monaco, 'Fira Code', monospace; font-size: 13.5px; font-weight: 600;">FinTech Infrastructure &amp; Smart Routing</a>
+</p>
 
-▸ Built CNN and transfer learning models for 3-class potato blight classification, achieving 98%+ test accuracy.  
-▸ Applied 4 data augmentation transforms and pixel scaling on 2,000+ leaf image samples with automated early stopping callbacks.  
-▸ Constructed TensorFlow tf.data pipeline with batch size of 32, optimizing GPU memory usage and lowering latency by ~40%.  
+▸ Architected an end-to-end intelligent payment routing solution designed to eliminate transaction drop-offs and optimize checkout conversion.<br/>
+▸ Designed real-time fraud mitigation heuristics, dynamic smart retry mechanisms, and automated merchant settlement reconciliation.<br/>
+▸ Integrated Razorpay API workflows with secure webhook handling and real-time transaction status synchronization.<br/>
 
-`[TensorFlow · Keras · CNN · Transfer Learning · Computer Vision · OpenCV]`
-
-<br/>
-
-### `Intelligent Payment Flow & Settlement Engine`
-[`FinTech Infrastructure & Smart Routing`](https://github.com/niraj-borole10)
-
-▸ Architected an end-to-end intelligent payment routing solution designed to eliminate transaction drop-offs and optimize checkout conversion.  
-▸ Designed real-time fraud mitigation heuristics, dynamic smart retry mechanisms, and automated merchant settlement reconciliation.  
-▸ Integrated Razorpay API workflows with secure webhook handling and real-time transaction status synchronization.  
-
-`[FinTech · Razorpay APIs · Webhooks · Distributed Systems · Real-Time Analytics]`
+<p align="left" style="color: #484F58; font-family: 'SF Mono', Monaco, monospace; font-size: 13px; margin-top: 8px; margin-bottom: 28px;">
+  [FinTech &middot; Razorpay APIs &middot; Webhooks &middot; Distributed Systems &middot; Real-Time Analytics]
+</p>
 
 <br/>
 <hr style="border: 0; height: 1px; background: #21262D; margin: 20px 0;" />
