@@ -1,8 +1,8 @@
-﻿name: GitHub-Profile-3D-Contrib
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 */3 * * *" # Runs automatically every 3 hours throughout the day
+    - cron: "0 * * * *" # Runs automatically every hour throughout the day
   push:
     branches:
       - main
