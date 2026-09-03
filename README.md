@@ -9,7 +9,7 @@
 <div align="left">
 
 - 👋 **Hi, I''m Niraj Borole!**
-- 🎓 I am currently a **pre-final year undergraduate student** at **IIT Kharagpur**.
+- 🎓 I am currently a **Pre-final year Undergraduate Student** at **IIT Kharagpur**.
 - 🚀 Aspiring **Software Engineer &amp; Systems Developer**.
 - 🔭 I’m currently working on building scalable applications, low-latency architectures, and optimized algorithms.
 - 🌱 I’m currently learning advanced **Backend Systems**, **Distributed Architectures**, and **AI Pipelines**.
