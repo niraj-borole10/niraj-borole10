@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=00BFFF&center=true&width=550&lines=MY+NAME+IS+NIRAJ+BOROLE;WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
   </a>
@@ -91,7 +91,7 @@
 <!-- SECTION: GITHUB STATS & STREAKS (ENLARGED & BORDERLESS)                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=niraj-borole10&theme=tokyonight&background=0D1117&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" width="680" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=niraj-borole10&theme=tokyonight&background=0D1117&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&timezone=Asia%2FKolkata" width="680" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
