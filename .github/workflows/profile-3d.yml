@@ -1,8 +1,9 @@
-name: GitHub-Profile-3D-Contrib
+name: Daily Streak & 3D Profile Auto Update
 
 on:
   schedule:
-    - cron: "0 * * * *" # Runs automatically every hour throughout the day
+    # Runs at 00:00 IST (18:30 UTC), 06:00 IST (00:30 UTC), 12:00 IST (06:30 UTC), 18:00 IST (12:30 UTC)
+    - cron: "30 0,6,12,18 * * *"
   push:
     branches:
       - main
@@ -12,18 +13,32 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  auto-update:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update Daily Activity Timestamp
+        run: |
+          mkdir -p .github
+          date -u +"%Y-%m-%d %H:%M:%S UTC" > .github/activity.log
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+
+      - name: Commit & Push Changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "chore: auto-update 3d contribution graph"; then git push; fi
+          git config user.name "niraj-borole10"
+          git config user.email "nirajborole0@gmail.com"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(daily): automated streak & 3D profile sync [skip ci]"
+            git push origin main
+          fi
+
