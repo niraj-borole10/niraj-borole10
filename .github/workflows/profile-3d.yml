@@ -26,6 +26,19 @@ jobs:
           mkdir -p .github
           date -u +"%Y-%m-%d %H:%M:%S UTC" > .github/activity.log
 
+      - name: Bust CDN Cache for Streak Stats in README
+        run: |
+          python3 -c "import re, time
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          def update_url(m):
+              url = re.sub(r'&t=[0-9]+', '', m.group(1))
+              return f'{url}&t={int(time.time())}'
+          new_content = re.sub(r'(https://streak-stats\.demolab\.com/\?[^\"]+)', update_url, content)
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(new_content)
+          "
+
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
@@ -41,4 +54,5 @@ jobs:
             git commit -m "chore(daily): automated streak & 3D profile sync [skip ci]"
             git push origin main
           fi
+
 
