@@ -91,7 +91,7 @@
 <!-- SECTION: GITHUB STATS & STREAKS (ENLARGED & BORDERLESS)                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=niraj-borole10&theme=tokyonight&background=0D1117&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&timezone=Asia%2FKolkata&t=1789058171" width="680" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=niraj-borole10&theme=tokyonight&background=0D1117&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=00BFFF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&timezone=Asia%2FKolkata&t=1789074342" width="680" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
